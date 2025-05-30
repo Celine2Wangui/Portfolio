@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository hosts a personal portfolio website, developed as a classwork assignment during my Computer Science studies.The primary goal of this project was to apply foundational frontend web development skills, specifically focusing on HTML5 and CSS3, to create a functional and aesthetically pleasing online presence.
+This repository hosts a personal portfolio website, developed as a classwork assignment during my Computer Science studies.The primary goal of this project was to apply foundational frontend web development skills, specifically focusing on HTML and CSS, to create a functional and aesthetically pleasing online presence.
 
 This portfolio serves as a demonstration of my current abilities in web design and development, showcasing my core skills and providing a glimpse into my learning journey.
 
@@ -21,8 +21,8 @@ The design of this portfolio aims for a "professional pastel" aesthetic. It comb
 
 ## Technologies Used
 
-* **HTML5:** For structuring the web content.
-* **CSS3:** For styling and layout, including flexbox and CSS Grid for responsive design.
+* **HTML:** For structuring the web content.
+* **CSS:** For styling and layout, including flexbox and CSS Grid for responsive design.
 * **Font Awesome:** Utilized for a wide range of scalable vector icons (social media, skill icons).
 * **Google Fonts:** Used for custom typography (`Quicksand` for headings and `Open Sans` for body text) to enhance readability and aesthetics.
 
